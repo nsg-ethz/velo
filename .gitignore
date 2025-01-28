@@ -1,0 +1,12 @@
+/target
+/proptest-regressions
+*.csv
+*.ipynb
+ipynb_checkpoints/
+tm-analysis.py
+measurements/*.csv
+plots/old_gridsearch_data
+plots/data
+Pipfile
+Pipfile.lock
+gurobi.log
